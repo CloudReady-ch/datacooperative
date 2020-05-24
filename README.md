@@ -18,9 +18,9 @@ https://wiki.p2pfoundation.net/Data_Cooperatives (source EN reprise ici, après 
 
 En théorie, les gouvernements eussent dû s'approprier le rôle de réguler la non-appropriation des données personnelles, et de toutes celles utiles pour l'intérêt public. Mais ils n'en comprennent pas la nécessité, et restent dans une certaine logique néolibérale économique, ne permettant pas finalement la création de réelles valeurs pour tous les humains.
 
-## (Ma) datacooperative
+## La proposition de datacooperative (CloudReady/pkotte)
 ## objectif
-Mr Zuckerberg, dispose d'un accès sans aucunes restrictions ni limites, au plus grand lac de données du monde, incluant des données très privées. Est-ce normal? Il en dispose même d'un libre usage, sans limitations... Et si pour accéder à nos données nous lui faisons nous écrire un contrat dans lequel il s'engage à ne pas utiliser ces données, pour faire voter un brexit par exemple, via des campagnes insidieuses et mensongères.
+Mr Zuckerberg dispose d'un accès sans aucunes restrictions ni limites, au plus grand lac de données du monde, incluant des données très privées. Est-ce normal? Il peut en disposer librement sans contraintes... Et si pour accéder à nos données nous lui faisions signer un contrat dans lequel il s'engage à ne pas utiliser ces données, pour faire voter un _brexit_ par exemple, via des campagnes insidieuses et mensongères en particulier.
 ## Un concept
 ### juridique
 Mettre en place simplement un cadre juridique compatible LPD et GDPR pour permettre la mise en partage de données, sous contrôles par leurs propriétaires, que ne sont pas les dépositaires de ces données, mais les mentionnés par ces données:
@@ -30,7 +30,7 @@ Mettre en place simplement un cadre juridique compatible LPD et GDPR pour permet
 * Des données de personnes morales, qui sortent du cadre LPD et GDPR, mais nous on veut mieux-traiter tout le monde, business et associatif
 * Des productions ou oeuvres collectives, associées à un collectif enregistré (personne morale), ou pas (société simple).
 ### technique
-A l'ère numérique du 21ème, les données ne sont plus structurées, mais leurs qualités/fiabilités sont souvent conditionnées à des structures.
+A l'ère numérique du 21ème, les données ne sont plus structurées, mais leurs qualités/fiabilités sont souvent conditionnées à des structures. Cela forme un "[lac de données](https://fr.wikipedia.org/wiki/Lac_de_donn%C3%A9es)":
 * Il ne doit pas y avoir "une seule" datacooperative, mais multiples inter-agissantes
 * Des API ouvertes et standardisées doivent permettre l'accès et la mise à jour de données.
 * Sécurité dans la disponibilité, résilience et multiples stockages, multiples datacentres ou serveurs privés.
