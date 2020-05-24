@@ -3,7 +3,7 @@ _What if we we able able to retake the control our data, if we own our datas, ou
 
 Et si, nous étions capables de reprendre le contrôle de nos données ? Si nous disposions de nos propres serveurs, pour distribuer nos données selon nos règles et nos conditions ? Combien pourrait-on revendre nos propres données ?
 
-## Définition officielle
+## Définition "officielle"
 https://wiki.p2pfoundation.net/Data_Cooperatives (source EN reprise ici, après traduction)
 * appartiennent à leurs membres et devraient donc être plus responsables;
 * mettre un terme à la collecte excessive de données à caractère personnel en représentant les personnes concernées et plaider en leur nom;
@@ -44,12 +44,16 @@ A l'ère numérique du 21ème, les données ne sont plus structurées, mais leur
 * sécurisation par une réelle anonymisation pour 
 
 ### organisationnel
-
+La gouvernance et é'éthique de l'organisation, en plus de l'organisation de son contrôle et de sa transparence, sont fondamentaux.
 * La responsabilité et la gestion d'une datacooperative doit passer par une organisation compatible avec une gouvernance partagée, une démocratie avérée.
   * Association loi 1901 en France
   * Association article 60 en Suisse
   * Coopérative (à compléter lesquelles)
   * Autres à déterminer
+* Un cadre juridique adapté au pays d'hébergement de ces données est nécessaire.
+* La mise en place des accès et standards d'échanges internationaux, doit aussi se faire avec des coopératives des collectifs concernés
+  * Collaborer avec les organismes du libre et open data existants (Ne pas réinventer l'existant)
+  * Proposer des modèles le plus universels possibles (genre Creative commons)
 
 ## Premières applications
 * http://news.la-caravane-passe.ch
