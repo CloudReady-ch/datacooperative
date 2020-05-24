@@ -60,8 +60,8 @@ La gouvernance et é'éthique de l'organisation, en plus de l'organisation de so
 * A compléter...
 
 # Projets connexes ou ressources
-## MyData.io
-
+## PersonalData.io
+* https://wiki.personaldata.io/wiki/Main_Page
 ## Solid avec Tim Berners Lee (fondateur du web)
 A suivre, car il s'agit de permettre en plus la décentralisation de toutes ces données.
 * https://www.zdnet.fr/actualites/solid-l-idee-de-tim-berners-lee-pour-reprendre-le-controle-des-donnees-39882941.htm
