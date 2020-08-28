@@ -44,7 +44,7 @@ A l'ère numérique du 21ème, les données ne sont plus structurées, mais leur
 * sécurisation par une réelle anonymisation pour 
 
 ### organisationnel
-La gouvernance et é'éthique de l'organisation, en plus de l'organisation de son contrôle et de sa transparence, sont fondamentaux.
+La gouvernance et l'éthique de l'organisation, en plus de l'organisation de son contrôle et de sa transparence, sont fondamentaux.
 * La responsabilité et la gestion d'une datacooperative doit passer par une organisation compatible avec une gouvernance partagée, une démocratie avérée.
   * Association loi 1901 en France
   * Association article 60 en Suisse
