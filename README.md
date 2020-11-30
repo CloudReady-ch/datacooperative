@@ -3,6 +3,8 @@ _What if we we able able to retake the control our data, if we own our datas, ou
 
 Et si, nous étions capables de reprendre le contrôle de nos données ? Si nous disposions de nos propres serveurs, pour distribuer nos données selon nos règles et nos conditions ? Combien pourrait-on revendre nos propres données ?
 
+Dans le principe de MyData.org: cf. https://github.com/Pascal-KOTTE/declaration/blob/master/1.0/FR/index.markdown
+
 ## Définition "officielle"
 https://wiki.p2pfoundation.net/Data_Cooperatives (source EN reprise ici, après traduction)
 * appartiennent à leurs membres et devraient donc être plus responsables;
