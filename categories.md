@@ -1,5 +1,5 @@
 # Classification des organisations
-A établir. Idéalement, il faudrait plutôt disposer de gradiants dans un "radar" avec plusieurs axes d'analyses.
+A établir. Idéalement, il faudrait plutôt disposer de gradiants dans un "radar" avec plusieurs axes d'analyses. Dans un premier temps, la catégorie sera un texte libre sur les CSV disponibles. A terme, une liste de gradients selon réponse à un questionnaire, si possible en ligne.
 * Durabilistes: 0 = hyper-résistant au développement durable, +100 = hyper-moteurs de progrès durables
 * Libristes: autoristarisme (0) vs démocratie participative (100)
 * Sociabilistes: tant pis pour les faibles/fragiles (0) vs solidarité et soutien (100)
