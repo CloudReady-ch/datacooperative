@@ -58,7 +58,13 @@ La gouvernance et l'éthique de l'organisation, en plus de l'organisation de son
   * Proposer des modèles le plus universels possibles (genre Creative commons)
 
 ## Premières applications
+### liste emails de diffusion dans le domaine durable en Suisse romande (plutôt vaudoise)
 * http://news.la-caravane-passe.ch
+  * le contenu est privé, mais partagé (formulaire mailchimp, pour usage dans un publipostage net-éthique)
+### transition.datacooperative.ch
+* bases d'organisations (collectifs) impliquées dans la transition écologique et humaniste: https://github.com/CloudReady-ch/datacooperative/blob/master/organidations.csv
+* bases de personnes publiquement impliquées dans la transition: https://github.com/CloudReady-ch/datacooperative/blob/master/peoples.csv
+* Catégorisations en constructions: https://github.com/CloudReady-ch/datacooperative/blob/master/categories.md
 * A compléter...
 
 # Projets connexes ou ressources
