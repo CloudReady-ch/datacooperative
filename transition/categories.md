@@ -9,10 +9,10 @@ A établir. Idéalement, il faudrait plutôt disposer de gradiants dans un "rada
 * Etc... (à compléter les valeurs pour soutenir un progrès)
 
 Un peu comme à l'image du smartvote. Reste à imaginer un questionnaire qui permette de mettre à jour ces gradients, utilisables à la fois pour les organisations (intelligences collectives, ou stupidités c'est la même chose)
-* https://github.com/CloudReady-ch/datacooperative/blob/master/organidations.csv
+* https://github.com/CloudReady-ch/datacooperative/blob/master/transition/organidations.csv
   * Pour le moment, category reste une simple étiquette texte libre
 
 # Classification des personnes
 A établir de façon similaire, avec 6 à 9 gradients numériques (en %), au lieu de tenter une classification arborescente et limitée, on peut organiser des "nuages" de personnes et organisations selon leurs tendances.
-* https://github.com/CloudReady-ch/datacooperative/blob/master/peoples.csv
+* https://github.com/CloudReady-ch/datacooperative/blob/master/transition/peoples.csv
   * **ATTENTION** de n'y mettre que des informations publiques et non privées
