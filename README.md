@@ -1,7 +1,7 @@
 # datacooperative
 _What if we we able able to retake the control our data, if we own our datas, our own digital platform, and if we decide who able to read what, and pay or not to get it? How much values can provide our own data?_
 
-Et si, nous étions capables de reprendre le contrôle de nos données ? Si nous disposions de nos propres serveurs, pour distribuer nos données selon nos règles et nos conditions ? Combien pourrait-on revendre nos propres données ?
+Et si, nous étions capables de reprendre le contrôle de nos données? Si nous disposions de nos propres serveurs, pour distribuer nos données selon nos règles et nos conditions? Combien pourrait-on revendre nos propres données?
 
 Dans le principe de MyData.org: cf. https://github.com/Pascal-KOTTE/declaration/blob/master/1.0/FR/index.markdown
 
