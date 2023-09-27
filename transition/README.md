@@ -2,6 +2,6 @@ Cet espace est destiné à héberger les data pour la dataccopérative transitio
 * En construction, https://sites.google.com/cloudready.ch/acteurs-de-la-transition-ch/accueil
 * Catégorisations en construction et réflexions: https://github.com/CloudReady-ch/datacooperative/blob/master/transition/categories.md
 * Organisations (collectifs): https://github.com/CloudReady-ch/datacooperative/blob/master/transition/organidations.csv
-* Personnalités (données publiques): https://github.com/CloudReady-ch/datacooperative/blob/master/transition/peoples.csv
+* Personnalités (UNIQUEMENT données publiques ici): https://github.com/CloudReady-ch/datacooperative/blob/master/transition/peoples.csv
 
 AH BEN OUI, pour le moment, c'est vide... Faut populer, et c'est bien le problème...
