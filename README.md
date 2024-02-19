@@ -89,3 +89,5 @@ A suivre, car il s'agit de permettre en plus la décentralisation de toutes ces 
 * https://www.umoov.org/ simple contributeur aux contenus
 ## Transiscope.org
 * A voir avec eux comment développer un partenariat.
+  * https://semapps.org/
+  * https://archipel.assemblee-virtuelle.org/
