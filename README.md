@@ -63,11 +63,21 @@ La gouvernance et l'éthique de l'organisation, en plus de l'organisation de son
   * le contenu est privé, mais partagé (formulaire mailchimp, pour usage dans un publipostage net-éthique)
 ### liste d'emails pour la presse en Suisse romande
 * (non exposée, 250 emails environs pour le moment)
+* [media.datacooperative.ch](media.datacooperative.ch)
 ### transition.datacooperative.ch
 * bases d'organisations (collectifs) impliquées dans la transition écologique et humaniste: https://github.com/CloudReady-ch/datacooperative/blob/master/organidations.csv
 * bases de personnes publiquement impliquées dans la transition: https://github.com/CloudReady-ch/datacooperative/blob/master/peoples.csv
 * Catégorisations en constructions: https://github.com/CloudReady-ch/datacooperative/blob/master/categories.md
 * A compléter...
+
+# Espaces collaboratifs libre avec Loomio
+## Bases géographiques
+En collaboration avec [Framasoft](Framasoft.org), et la plateforme [Loomio]([url](https://github.com/loomio/loomio)) pour mettre à disposition des espaces collaboratifs non abusifs et sans pubs, pour les
+* [pully.datacooperative.ch](pully.datacooperative.ch)
+* [vaud.datacooperative.ch](vaud.datacooperative.ch)
+## Bases corporatistes/associatives
+Pour mettre à disposition de corporations métiers, associations, ou collectivités.
+* A créer...
 
 # Projets connexes ou ressources
 ## PersonalData.io
