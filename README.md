@@ -68,9 +68,7 @@ La gouvernance et l'éthique de l'organisation, en plus de l'organisation de son
 * bases d'organisations (collectifs) impliquées dans la transition écologique et humaniste: https://github.com/CloudReady-ch/datacooperative/blob/master/organidations.csv
 * bases de personnes publiquement impliquées dans la transition: https://github.com/CloudReady-ch/datacooperative/blob/master/peoples.csv
 * Catégorisations en constructions: https://github.com/CloudReady-ch/datacooperative/blob/master/categories.md
-* A compléter...
-#### En pause
-A voir partenariat avec [ReseauTransition.ch](ReseauTransition.ch) et [Transiscope.org](Transiscope.org)
+* **EN PAUSE**: A voir partenariat avec [ReseauTransition.ch](ReseauTransition.ch) et [Transiscope.org](Transiscope.org)
 
 # Espaces collaboratifs libres avec Loomio
 ## Bases géographiques
