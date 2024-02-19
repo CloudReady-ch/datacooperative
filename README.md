@@ -76,4 +76,6 @@ La gouvernance et l'éthique de l'organisation, en plus de l'organisation de son
 A suivre, car il s'agit de permettre en plus la décentralisation de toutes ces données.
 * https://www.zdnet.fr/actualites/solid-l-idee-de-tim-berners-lee-pour-reprendre-le-controle-des-donnees-39882941.htm
 ## Umoov
-* https://www.umoov.org/
+* https://www.umoov.org/ simple contributeur aux contenus
+## Transiscope.org
+* A voir avec eux comment développer un partenariat.
