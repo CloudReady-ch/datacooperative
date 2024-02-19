@@ -70,14 +70,14 @@ La gouvernance et l'éthique de l'organisation, en plus de l'organisation de son
 * Catégorisations en constructions: https://github.com/CloudReady-ch/datacooperative/blob/master/categories.md
 * A compléter...
 
-# Espaces collaboratifs libre avec Loomio
+# Espaces collaboratifs libres avec Loomio
 ## Bases géographiques
 En collaboration avec [Framasoft](Framasoft.org), et la plateforme [Loomio]([url](https://github.com/loomio/loomio)) pour mettre à disposition des espaces collaboratifs non abusifs et sans pubs, pour les
 * [pully.datacooperative.ch](pully.datacooperative.ch)
 * [vaud.datacooperative.ch](vaud.datacooperative.ch)
 ## Bases corporatistes/associatives
 Pour mettre à disposition de corporations métiers, associations, ou collectivités.
-* A créer...
+* A créer... Création instantanée et en ligne, sur RdV http://call.kotte.net
 
 # Projets connexes ou ressources
 ## PersonalData.io
