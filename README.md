@@ -16,25 +16,26 @@ https://wiki.p2pfoundation.net/Data_Cooperatives (source EN reprise ici, après 
 * peut libérer des données personnelles au nom des membres via des demandes d'accès par sujet;
 * peut encourager la production de meilleures données et d'un meilleur contexte par les personnes concernées;
 * instaurer la confiance et le consentement au sein de l'organisation et
-* peut être un mélange d'organisations de données ouvertes et de données personnelles "
+* peut être un mélange d'organisations de données ouvertes et de données personnelles
 
 En théorie, les gouvernements eussent dû s'approprier le rôle de réguler la non-appropriation des données personnelles, et de toutes celles utiles pour l'intérêt public. Mais ils n'en comprennent pas la nécessité, et restent dans une certaine logique néolibérale économique, ne permettant pas finalement la création de réelles valeurs pour tous les humains.
 
 ## La proposition de datacooperative (CloudReady/pkotte)
-## objectif
-Mr Zuckerberg dispose d'un accès sans aucunes restrictions ni limites, au plus grand lac de données du monde, incluant des données très privées. Est-ce normal? Il peut en disposer librement sans contraintes... Et si pour accéder à nos données nous lui faisions signer un contrat dans lequel il s'engage à ne pas utiliser ces données, pour faire voter un _brexit_ par exemple, via des campagnes insidieuses et mensongères en particulier.
+## Objectif
+Mr Zuckerberg dispose d'un accès sans aucunes restrictions ni limites, au plus grand lac de données du monde, incluant des données très privées. Est-ce normal? Il peut en disposer librement sans contraintes... Et si pour accéder à nos données nous lui faisions signer un contrat dans lequel il s'engage à ne pas utiliser ces données, pour faire [voter un _brexit_](https://fr.wikipedia.org/wiki/Scandale_Facebook-Cambridge_Analytica) par exemple, via des campagnes insidieuses et mensongères en particulier. Comment reprendre le contrôle de nos données personnelles, qui sont une extension de soi-même, et dont l'intgérité devrait établie dans nos constitutions et dans la déclaration des droits de l'homme.
 ## Un concept
 ### juridique
-Mettre en place simplement un cadre juridique compatible LPD et GDPR pour permettre la mise en partage de données, sous contrôles par leurs propriétaires, que ne sont pas les dépositaires de ces données, mais les mentionnés par ces données:
+Mettre en place simplement un cadre juridique compatible [LPD](https://fr.wikipedia.org/wiki/Nouvelle_loi_sur_la_protection_des_donn%C3%A9es_en_Suisse) et [GDPR](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es) pour permettre la mise en partage de données, sous contrôles par leurs propriétaires, que ne sont pas les dépositaires de ces données, mais les mentionnés par ces données:
 * Des données personnelles
 * Des oeuvres personnelles
-* Des informations confidentielles en partages limités et réservés (datacooperative de santé par exemple)
-* Des données de personnes morales, qui sortent du cadre LPD et GDPR, mais nous on veut mieux-traiter tout le monde, business et associatif
+* Des informations confidentielles, parfois sensibles, en partages limités et réservés (datacooperative de santé par exemple)
+* Des données de personnes morales, qui sortent du cadre LPD et GDPR, mais on souhaite mieux-traiter tout le monde, business et associatif
 * Des productions ou oeuvres collectives, associées à un collectif enregistré (personne morale), ou pas (société simple).
 ### technique
 A l'ère numérique du 21ème, les données ne sont plus structurées, mais leurs qualités/fiabilités sont souvent conditionnées à des structures. Cela forme un "[lac de données](https://fr.wikipedia.org/wiki/Lac_de_donn%C3%A9es)":
 * Il ne doit pas y avoir "une seule" datacooperative, mais multiples inter-agissantes
 * Des API ouvertes et standardisées doivent permettre l'accès et la mise à jour de données.
+  * Option: Stockage partagé et décentralisé, à l'instar de [FEDIVERSE](https://fr.wikipedia.org/wiki/Fediverse) ou de [SOLID](https://fr.wikipedia.org/wiki/Solid_(projet_de_web_d%C3%A9centralis%C3%A9)), ou un [blockchain](https://fr.wikipedia.org/wiki/Blockchain).
 * Sécurité dans la disponibilité, résilience et multiples stockages, multiples datacentres ou serveurs privés.
 * sécurité de l'accès pour les données "confidentielles" et pour les "modificateurs/correcteurs" autorisés.
   * identification des participants (toile de confiance)
@@ -43,7 +44,8 @@ A l'ère numérique du 21ème, les données ne sont plus structurées, mais leur
   * sécurisation des conflits de mises à jour
   * sécurisation de la non perte du contrôle 
 * sécurité de l'intégrité/qualité des données: L'amélioration des données, suppression des erreurs ou obsolescences, doublons, triplons
-* sécurisation par une réelle anonymisation pour 
+* sécurisation par une réelle anonymisation des données mises à disposition pour des usages gouvernés par la datacooperative (recherches, publications, décisions et choix politiques...)
+* Mise en place de solutions [lowtech](https://fr.wikipedia.org/wiki/Low-tech) ou [slowtech](https://www.greenit.fr/2022/10/04/sobriete-manifeste-pour-une-slow-tech/), ou écologiquement responsables, dans la mesure du possible.
 
 ### organisationnel
 La gouvernance et l'éthique de l'organisation, en plus de l'organisation de son contrôle et de sa transparence, sont fondamentaux.
@@ -62,9 +64,11 @@ La gouvernance et l'éthique de l'organisation, en plus de l'organisation de son
 * http://news.la-caravane-passe.ch
   * le contenu est privé, mais partagé (formulaire mailchimp, pour usage dans un publipostage net-éthique)
 ### liste d'emails pour la presse en Suisse romande
-* (non exposée, 250 emails environs pour le moment)
+Afin de diffusion de comuniqués de presse.
+* (non exposée, 250 emails environs pour le moment, aussi dans une liste Mailchimp privée)
 * [media.datacooperative.ch](media.datacooperative.ch)
 ### transition.datacooperative.ch
+
 * bases d'organisations (collectifs) impliquées dans la transition écologique et humaniste: https://github.com/CloudReady-ch/datacooperative/blob/master/organidations.csv
 * bases de personnes publiquement impliquées dans la transition: https://github.com/CloudReady-ch/datacooperative/blob/master/peoples.csv
 * Catégorisations en constructions: https://github.com/CloudReady-ch/datacooperative/blob/master/categories.md
