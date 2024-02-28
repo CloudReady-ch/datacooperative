@@ -67,9 +67,9 @@ La gouvernance et l'éthique de l'organisation, en plus de l'organisation de son
 ### liste d'emails pour la presse en Suisse romande
 Afin de diffusion de comuniqués de presse.
 * (non exposée, 250 emails environs pour le moment, aussi dans une liste Mailchimp privée)
-* [media.datacooperative.ch](media.datacooperative.ch)
+* [media.datacooperative.ch](http://media.datacooperative.ch)
 ### transition.datacooperative.ch
-
+C'est le projet CloudReady.ch: Qui est hébergé chez infomaniak sous l'inter-organisation nommée: **Cycles et Réseaux de la Transition** mais propriété de Cloudready.
 * bases d'organisations (collectifs) impliquées dans la transition écologique et humaniste: https://github.com/CloudReady-ch/datacooperative/blob/master/organidations.csv
 * bases de personnes publiquement impliquées dans la transition: [https://github.com/CloudReady-ch/datacooperative/blob/master/peoples.csv](https://github.com/CloudReady-ch/datacooperative/blob/master/transition/peoples.csv)
 * Catégorisations en constructions: https://github.com/CloudReady-ch/datacooperative/blob/master/categories.md
