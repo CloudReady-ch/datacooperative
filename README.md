@@ -64,7 +64,7 @@ La gouvernance et l'éthique de l'organisation, en plus de l'organisation de son
 ### liste emails de diffusion dans le domaine durable en Suisse romande (plutôt vaudoise)
 Le contenu est privé, mais partagé (formulaire mailchimp, pour usage dans un publipostage net-éthique).
 * http://news.la-caravane-passe.ch
-CloudReady a aussi mis à disposition un Google drive pro de 30GB et 
+CloudReady a aussi mis à disposition un Google drive pro de 30GB et est en discussion avec Infomaniak, pour des services gratuits similaires, mais en Suisse.
 ### liste d'emails pour la presse en Suisse romande
 Afin de diffusion de comuniqués de presse.
 * (non exposée, 250 emails environs pour le moment, aussi dans une liste Mailchimp privée)
