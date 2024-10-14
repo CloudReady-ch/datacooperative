@@ -8,7 +8,7 @@ A établir. Idéalement, il faudrait plutôt disposer de gradiants dans un "rada
 * Utopistes: extinction de l'humanité dans moins de 2 siècles (0) vs résilience et lendemain heureux (100)
 * Etc... (à compléter les valeurs pour soutenir un progrès)
 
-Un peu comme à l'image du smartvote. Reste à imaginer un questionnaire qui permette de mettre à jour ces gradients, utilisables à la fois pour les organisations (intelligences collectives, ou stupidités c'est la même chose)
+Un peu comme à l'image du smartvote. Reste à imaginer un questionnaire qui permette de mettre à jour ces gradients, utilisable à la fois pour les organisations, mais aussi pour les personnes.
 * https://github.com/CloudReady-ch/datacooperative/blob/master/transition/organidations.csv
   * Pour le moment, category reste une simple étiquette texte libre
 
